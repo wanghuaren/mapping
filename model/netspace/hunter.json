@@ -1,0 +1,42 @@
+{
+  "code": 200,
+  "data": {
+    "account_type": "个人账号",
+    "total": 186112,
+    "time": 6712,
+    "arr": [
+      {
+        "is_risk": "",
+        "url": "https://gmall.dev.webapp.163.com:8072",
+        "ip": "42.186.175.33",
+        "port": 8072,
+        "web_title": "5周年测试",
+        "domain": "gmall.dev.webapp.163.com",
+        "is_risk_protocol": "",
+        "protocol": "https",
+        "base_protocol": "tcp",
+        "status_code": 200,
+        "component": [
+          { "name": "Nginx", "version": "" },
+          { "name": "jQuery", "version": "3.1.1" }
+        ],
+        "os": "",
+        "company": "广州网易计算机系统有限公司",
+        "number": "粤B2-20090191-18",
+        "country": "中国",
+        "province": "浙江省",
+        "city": "杭州市",
+        "updated_at": "2024-01-19",
+        "is_web": "是",
+        "as_org": "网易",
+        "isp": "网易",
+        "banner": "HTTP/1.1 403 Forbidden\\r\\nServer: nginx\\r\\nDate: Thu, 18 Jan 2024 19:41:07 GMT\\r\\nContent-Type: text/plain; charset=UTF-8\\r\\nContent-Length: 55\\r\\nConnection: keep-alive\\r\\nX-Trace-ID: 103d07839f581cfade049e70dcc85226\\r\\nntes-trace-id: 8afe5713ed69af0:8afe5713ed69af0:0:1\\r\\n\\r\\n403 Forbidden\\n\\nAccess was denied to this resource.\\n\\n   ",
+        "vul_list": ""
+      }
+    ],
+    "consume_quota": "消耗积分：50",
+    "rest_quota": "今日剩余积分：297",
+    "syntax_prompt": ""
+  },
+  "message": "success"
+}

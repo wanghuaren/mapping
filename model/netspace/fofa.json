@@ -1,0 +1,21 @@
+{
+  "error": false,
+  "consumed_fpoint": 0,
+  "required_fpoints": 0,
+  "size": 52487576,
+  "page": 1,
+  "mode": "normal",
+  "query": "\"google.com\"",
+  "results": [
+    [
+      "222.245.59.226",
+      "222.245.59.226:49669",
+      "",
+      "49669",
+      "http",
+      "nginx",
+      "DedSec\u0026nbsp;-\u0026nbsp;Synology\u0026nbsp;DiskStation",
+      "HTTP/1.1 200 OK\r\nConnection: close\r\nTransfer-Encoding: chunked\r\nCache-Control: no-store\r\nContent-Security-Policy: base-uri 'self';  connect-src data: ws: wss: http: https:; default-src 'self' 'unsafe-eval' data: blob: https://*.synology.com https://www.synology.cn/ https://help.synology.cn/; font-src 'self' data: https://*.googleapis.com https://*.gstatic.com; form-action 'self'; frame-ancestors 'self'; frame-src 'self' data: blob: https://*.synology.com https://*.synology.cn http://*.synology.com http://*.synology.cn; img-src 'self' data: blob: https://*.google.com https://*.googleapis.com http://*.googlecode.com https://*.gstatic.com https://global.download.synology.com; media-src 'self' data: about: https://*.synology.com https://help.synology.cn;  script-src 'self' 'unsafe-eval' data: blob: https://maps.google.com https://ajax.googleapis.com https://help.synology.com https://help.synology.cn; style-src 'self' 'unsafe-inline' https://*.googleapis.com;\r\nContent-Type: text/html; charset=\"UTF-8\"\r\nDate: Sat, 20 Jan 2024 09:28:58 GMT\r\nP3p: CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"\r\nServer: nginx\r\nVary: Accept-Encoding\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nX-Xss-Protection: 1; mode=block\r\n"
+    ]
+  ]
+}

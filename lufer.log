@@ -1,0 +1,736 @@
+2024/01/24 14:07:42 [2024-01-24 14:07:42.252]创建Redis完成
+2024/01/24 14:07:42 [2024-01-24 14:07:42.312]DB2Cache 导入
+2024/01/24 14:07:42 [2024-01-24 14:07:42.323]fofasearch
+2024/01/24 14:07:49 [2024-01-24 14:07:49.564]huntersearch
+2024/01/24 14:07:53 [2024-01-24 14:07:53.385]nmapssearch
+2024/01/24 14:07:58 [2024-01-24 14:07:58.948]DB2Cache 结束
+2024/01/24 14:07:58 [2024-01-24 14:07:58.950]http server,10.0.100.172:8089
+2024/01/24 14:07:58 [2024-01-24 14:07:58.950]输入命令:
+gc:手动GC
+exit:退出服务
+按Enter键返回菜单
+a:保存Redis到Mysql
+
+2024/01/24 14:07:58 [2024-01-24 14:07:58.960]本机IP:10.0.100.172
+2024/01/24 14:17:44 [2024-01-24 14:17:44.886]创建Redis完成
+2024/01/24 14:17:44 [2024-01-24 14:17:44.933]DB2Cache 导入
+2024/01/24 14:17:44 [2024-01-24 14:17:44.943]fofasearch
+2024/01/24 14:17:52 [2024-01-24 14:17:52.183]huntersearch
+2024/01/24 14:17:55 [2024-01-24 14:17:55.837]nmapssearch
+2024/01/24 14:18:01 [2024-01-24 14:18:01.764]DB2Cache 结束
+2024/01/24 14:18:01 [2024-01-24 14:18:01.767]http server,10.0.100.172:8089
+2024/01/24 14:18:01 [2024-01-24 14:18:01.768]输入命令:
+gc:手动GC
+exit:退出服务
+按Enter键返回菜单
+a:保存Redis到Mysql
+
+2024/01/24 14:18:01 [2024-01-24 14:18:01.782]本机IP:10.0.100.172
+2024/01/24 17:42:30 [2024-01-24 17:42:30.262]创建Redis完成
+2024/01/24 17:42:30 [2024-01-24 17:42:30.307]DB2Cache 导入
+2024/01/24 17:42:30 [2024-01-24 17:42:30.330]huntersearch
+2024/01/24 17:42:33 [2024-01-24 17:42:33.578]nmapssearch
+2024/01/24 17:42:38 [2024-01-24 17:42:38.407]fofasearch
+2024/01/24 17:42:44 [2024-01-24 17:42:44.870]DB2Cache 结束
+2024/01/24 17:42:44 [2024-01-24 17:42:44.872]http server,10.0.100.172:8089
+2024/01/24 17:42:44 [2024-01-24 17:42:44.872]输入命令:
+gc:手动GC
+exit:退出服务
+按Enter键返回菜单
+a:保存Redis到Mysql
+
+2024/01/24 17:42:44 [2024-01-24 17:42:44.891]本机IP:10.0.100.172
+2024/01/24 18:28:42 [2024-01-24 18:28:42.717]创建Redis完成
+2024/01/24 18:28:42 [2024-01-24 18:28:42.768]DB2Cache 导入
+2024/01/24 18:28:42 [2024-01-24 18:28:42.777]nmapssearch
+2024/01/24 18:28:47 [2024-01-24 18:28:47.949]fofasearch
+2024/01/24 18:28:54 [2024-01-24 18:28:54.864]huntersearch
+2024/01/24 18:28:58 [2024-01-24 18:28:58.349]DB2Cache 结束
+2024/01/24 18:28:58 [2024-01-24 18:28:58.352]http server,10.0.100.172:8089
+2024/01/24 18:28:58 [2024-01-24 18:28:58.352]输入命令:
+gc:手动GC
+exit:退出服务
+按Enter键返回菜单
+a:保存Redis到Mysql
+
+2024/01/24 18:28:58 [2024-01-24 18:28:58.373]本机IP:10.0.100.172
+2024/01/24 18:29:14 [2024-01-24 18:29:14.802]Search,nmaps.io
+2024/01/24 18:29:14 [2024-01-24 18:29:14.804]Search,nmaps.io
+2024/01/24 18:29:16 [2024-01-24 18:29:16.635]调用接口用时,1830,https://api.nmaps.io/api/v1/search_to_http
+2024/01/24 18:29:16 [2024-01-24 18:29:16.666]读取接口数据用时,31
+2024/01/24 18:29:18 [2024-01-24 18:29:18.176]调用接口用时,1508,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Chost%2Cdomain%2Cport%2Cprotocol%2Cserver%2Ctitle%2Cheader&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=bm1hcHMuaW8%3D&size=20
+2024/01/24 18:29:18 [2024-01-24 18:29:18.217]读取接口数据用时,40
+2024/01/24 18:29:18 [2024-01-24 18:29:18.328]Search,nmaps.io
+2024/01/24 18:29:20 [2024-01-24 18:29:20.839]调用接口用时,2510,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=20&search=bm1hcHMuaW8%3D&start_time=
+2024/01/24 18:29:21 [2024-01-24 18:29:21.416]读取接口数据用时,576
+2024/01/24 18:29:21 [2024-01-24 18:29:21.418]调用错误,&{200 success {个人账号 0 311 [] 消耗积分：1 今日剩余积分：29276 }}
+2024/01/24 18:29:21 [2024-01-24 18:29:21.418]Search,nmaps.io
+2024/01/24 18:29:25 [2024-01-24 18:29:25.982]调用接口用时,4564,https://quake.360.net/api/v3/search/quake_service
+2024/01/24 18:29:26 [2024-01-24 18:29:26.577]读取接口数据用时,595
+2024/01/24 18:29:26 [2024-01-24 18:29:26.579]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/24 18:30:46 [2024-01-24 18:30:46.845]创建Redis完成
+2024/01/24 18:30:46 [2024-01-24 18:30:46.888]DB2Cache 导入
+2024/01/24 18:30:46 [2024-01-24 18:30:46.898]fofasearch
+2024/01/24 18:30:53 [2024-01-24 18:30:53.613]huntersearch
+2024/01/24 18:30:57 [2024-01-24 18:30:57.103]nmapssearch
+2024/01/24 18:31:02 [2024-01-24 18:31:02.355]DB2Cache 结束
+2024/01/24 18:31:02 [2024-01-24 18:31:02.358]http server,10.0.100.172:8089
+2024/01/24 18:31:02 [2024-01-24 18:31:02.358]输入命令:
+gc:手动GC
+exit:退出服务
+按Enter键返回菜单
+a:保存Redis到Mysql
+
+2024/01/24 18:31:02 [2024-01-24 18:31:02.377]本机IP:10.0.100.172
+2024/01/24 18:31:41 [2024-01-24 18:31:41.245]Search,google.com
+2024/01/24 18:31:41 [2024-01-24 18:31:41.247]Search,google.com
+2024/01/24 18:31:42 [2024-01-24 18:31:42.731]调用接口用时,1483,https://api.nmaps.io/api/v1/search_to_http
+2024/01/24 18:31:43 [2024-01-24 18:31:43.310]读取接口数据用时,578
+2024/01/24 18:31:47 [2024-01-24 18:31:47.038]调用接口用时,2461,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Chost%2Cdomain%2Cport%2Cprotocol%2Cserver%2Ctitle%2Cheader&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=Z29vZ2xlLmNvbQ%3D%3D&size=20
+2024/01/24 18:31:47 [2024-01-24 18:31:47.062]读取接口数据用时,23
+2024/01/24 18:31:47 [2024-01-24 18:31:47.504]Search,google.com
+2024/01/24 18:31:49 [2024-01-24 18:31:49.023]调用接口用时,1519,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=20&search=Z29vZ2xlLmNvbQ%3D%3D&start_time=
+2024/01/24 18:31:49 [2024-01-24 18:31:49.215]读取接口数据用时,191
+2024/01/24 18:31:49 [2024-01-24 18:31:49.217]调用错误,&{40201 涉及灰色资产，不支持查询 { 0 0 []   }}
+2024/01/24 18:31:49 [2024-01-24 18:31:49.217]Search,google.com
+2024/01/24 18:31:50 [2024-01-24 18:31:50.751]调用接口用时,1534,https://quake.360.net/api/v3/search/quake_service
+2024/01/24 18:31:51 [2024-01-24 18:31:51.287]读取接口数据用时,536
+2024/01/24 18:31:51 [2024-01-24 18:31:51.288]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 09:57:06 [2024-01-25 09:57:06.165]创建Redis完成
+2024/01/25 09:57:06 [2024-01-25 09:57:06.264]DB2Cache 导入
+2024/01/25 09:57:06 [2024-01-25 09:57:06.278]nmapssearch
+2024/01/25 09:57:10 [2024-01-25 09:57:10.719]fofasearch
+2024/01/25 09:57:16 [2024-01-25 09:57:16.277]huntersearch
+2024/01/25 09:57:19 [2024-01-25 09:57:19.038]DB2Cache 结束
+2024/01/25 09:57:19 [2024-01-25 09:57:19.040]http server,10.0.100.172:8088
+2024/01/25 09:57:19 [2024-01-25 09:57:19.041]输入命令:
+gc:手动GC
+exit:退出服务
+按Enter键返回菜单
+a:保存Redis到Mysql
+
+2024/01/25 09:57:19 [2024-01-25 09:57:19.057]本机IP:172.19.192.1
+2024/01/25 09:57:37 [2024-01-25 09:57:37.705]Search,nmaps.io
+2024/01/25 09:57:37 [2024-01-25 09:57:37.709]Search,nmaps.io
+2024/01/25 09:57:38 [2024-01-25 09:57:38.498]search_to_http_api_name request ip,10.0.100.184
+2024/01/25 09:57:39 [2024-01-25 09:57:39.233]调用接口用时,1523,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 09:57:39 [2024-01-25 09:57:39.493]search_to_http_api_name request ip,10.0.100.184
+2024/01/25 09:57:39 [2024-01-25 09:57:39.898]读取接口数据用时,665
+2024/01/25 09:57:40 [2024-01-25 09:57:40.488]search_to_http_api_name request ip,10.0.100.184
+2024/01/25 09:57:41 [2024-01-25 09:57:41.209]调用接口用时,1309,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Chost%2Cdomain%2Cport%2Cprotocol%2Cserver%2Ctitle%2Cheader&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=bm1hcHMuaW8%3D&size=10
+2024/01/25 09:57:41 [2024-01-25 09:57:41.240]读取接口数据用时,30
+2024/01/25 09:57:41 [2024-01-25 09:57:41.357]Search,nmaps.io
+2024/01/25 09:57:41 [2024-01-25 09:57:41.487]search_to_http_api_name request ip,10.0.100.184
+2024/01/25 09:57:42 [2024-01-25 09:57:42.487]search_to_http_api_name request ip,10.0.100.184
+2024/01/25 09:57:43 [2024-01-25 09:57:43.490]search_to_http_api_name request ip,10.0.100.184
+2024/01/25 09:57:44 [2024-01-25 09:57:44.100]调用接口用时,2741,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=10&search=bm1hcHMuaW8%3D&start_time=
+2024/01/25 09:57:44 [2024-01-25 09:57:44.310]读取接口数据用时,209
+2024/01/25 09:57:44 [2024-01-25 09:57:44.312]调用错误,&{200 success {个人账号 0 235 [] 消耗积分：1 今日剩余积分：29775 }}
+2024/01/25 09:57:44 [2024-01-25 09:57:44.312]Search,nmaps.io
+2024/01/25 09:57:44 [2024-01-25 09:57:44.490]search_to_http_api_name request ip,10.0.100.184
+2024/01/25 09:57:45 [2024-01-25 09:57:45.488]search_to_http_api_name request ip,10.0.100.184
+2024/01/25 09:57:46 [2024-01-25 09:57:46.485]search_to_http_api_name request ip,10.0.100.184
+2024/01/25 09:57:46 [2024-01-25 09:57:46.831]调用接口用时,2518,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 09:57:47 [2024-01-25 09:57:47.471]读取接口数据用时,640
+2024/01/25 09:57:47 [2024-01-25 09:57:47.473]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 09:57:51 [2024-01-25 09:57:51.308]Search over
+2024/01/25 09:57:51 [2024-01-25 09:57:51.308]search_to_http_api_name request ip,10.0.100.184
+2024/01/25 09:57:51 [2024-01-25 09:57:51.309]search_to_http_api_name request ip,10.0.100.184
+2024/01/25 09:57:51 [2024-01-25 09:57:51.309]search_to_http_api_name request ip,10.0.100.184
+2024/01/25 09:57:51 [2024-01-25 09:57:51.312]search_to_http request ip,10.0.100.184
+2024/01/25 09:57:51 [2024-01-25 09:57:51.312]抓取域名查到的IP,156.235.99.78
+2024/01/25 09:57:51 [2024-01-25 09:57:51.313]search_to_http:A,13609
+2024/01/25 09:57:51 [2024-01-25 09:57:51.313]Search,ip="156.235.99.78"
+2024/01/25 09:57:51 [2024-01-25 09:57:51.315]Search,host="156.235.99.78"
+2024/01/25 09:57:51 [2024-01-25 09:57:51.317]search_to_http_api_name request ip,10.0.100.184
+2024/01/25 09:57:51 [2024-01-25 09:57:51.740]调用接口用时,425,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 09:57:51 [2024-01-25 09:57:51.929]读取接口数据用时,188
+2024/01/25 09:57:53 [2024-01-25 09:57:53.251]调用接口用时,1321,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Chost%2Cdomain%2Cport%2Cprotocol%2Cserver%2Ctitle%2Cheader&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=aXA9IjE1Ni4yMzUuOTkuNzgi&size=10
+2024/01/25 09:57:53 [2024-01-25 09:57:53.428]读取接口数据用时,177
+2024/01/25 09:57:53 [2024-01-25 09:57:53.465]Search,ip="156.235.99.78"
+2024/01/25 09:57:56 [2024-01-25 09:57:56.441]调用接口用时,2976,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=10&search=aXA9IjE1Ni4yMzUuOTkuNzgi&start_time=
+2024/01/25 09:57:56 [2024-01-25 09:57:56.667]读取接口数据用时,225
+2024/01/25 09:57:56 [2024-01-25 09:57:56.686]Search,host:"156.235.99.78"
+2024/01/25 09:57:57 [2024-01-25 09:57:57.646]调用接口用时,960,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 09:57:57 [2024-01-25 09:57:57.879]读取接口数据用时,233
+2024/01/25 09:57:57 [2024-01-25 09:57:57.880]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 09:57:57 [2024-01-25 09:57:57.880]抓取域名查到的IP,数据完成
+2024/01/25 09:57:57 [2024-01-25 09:57:57.880]抓取域名查到的IP,104.21.39.101
+2024/01/25 09:57:57 [2024-01-25 09:57:57.881]Search,ip="104.21.39.101"
+2024/01/25 09:57:57 [2024-01-25 09:57:57.883]Search,host="104.21.39.101"
+2024/01/25 09:57:58 [2024-01-25 09:57:58.269]调用接口用时,385,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 09:57:58 [2024-01-25 09:57:58.502]读取接口数据用时,232
+2024/01/25 09:58:04 [2024-01-25 09:58:04.046]调用接口用时,5542,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Chost%2Cdomain%2Cport%2Cprotocol%2Cserver%2Ctitle%2Cheader&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=aXA9IjEwNC4yMS4zOS4xMDEi&size=10
+2024/01/25 09:58:04 [2024-01-25 09:58:04.270]读取接口数据用时,223
+2024/01/25 09:58:04 [2024-01-25 09:58:04.350]Search,ip="104.21.39.101"
+2024/01/25 09:58:05 [2024-01-25 09:58:05.478]调用接口用时,1128,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=10&search=aXA9IjEwNC4yMS4zOS4xMDEi&start_time=
+2024/01/25 09:58:05 [2024-01-25 09:58:05.710]读取接口数据用时,230
+2024/01/25 09:58:05 [2024-01-25 09:58:05.720]Search,host:"104.21.39.101"
+2024/01/25 09:58:06 [2024-01-25 09:58:06.056]调用接口用时,335,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 09:58:06 [2024-01-25 09:58:06.234]读取接口数据用时,177
+2024/01/25 09:58:06 [2024-01-25 09:58:06.235]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 09:58:06 [2024-01-25 09:58:06.235]抓取域名查到的IP,数据完成
+2024/01/25 09:58:06 [2024-01-25 09:58:06.235]抓取域名查到的IP,104.21.39.101
+2024/01/25 09:58:06 [2024-01-25 09:58:06.236]Search,ip="104.21.39.101"
+2024/01/25 09:58:06 [2024-01-25 09:58:06.237]Search,host="104.21.39.101"
+2024/01/25 09:58:06 [2024-01-25 09:58:06.618]调用接口用时,379,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 09:58:06 [2024-01-25 09:58:06.818]读取接口数据用时,200
+2024/01/25 09:58:07 [2024-01-25 09:58:07.646]调用接口用时,827,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Chost%2Cdomain%2Cport%2Cprotocol%2Cserver%2Ctitle%2Cheader&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=aXA9IjEwNC4yMS4zOS4xMDEi&size=10
+2024/01/25 09:58:07 [2024-01-25 09:58:07.877]读取接口数据用时,229
+2024/01/25 09:58:07 [2024-01-25 09:58:07.888]Search,ip="104.21.39.101"
+2024/01/25 09:58:08 [2024-01-25 09:58:08.512]调用接口用时,624,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=10&search=aXA9IjEwNC4yMS4zOS4xMDEi&start_time=
+2024/01/25 09:58:08 [2024-01-25 09:58:08.738]读取接口数据用时,225
+2024/01/25 09:58:08 [2024-01-25 09:58:08.748]Search,host:"104.21.39.101"
+2024/01/25 09:58:09 [2024-01-25 09:58:09.314]调用接口用时,565,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 09:58:09 [2024-01-25 09:58:09.528]读取接口数据用时,214
+2024/01/25 09:58:09 [2024-01-25 09:58:09.529]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 09:58:09 [2024-01-25 09:58:09.530]抓取域名查到的IP,数据完成
+2024/01/25 09:58:09 [2024-01-25 09:58:09.530]抓取域名查到的IP,172.67.144.50
+2024/01/25 09:58:09 [2024-01-25 09:58:09.530]Search,ip="172.67.144.50"
+2024/01/25 09:58:09 [2024-01-25 09:58:09.532]Search,host="172.67.144.50"
+2024/01/25 09:58:09 [2024-01-25 09:58:09.934]调用接口用时,401,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 09:58:10 [2024-01-25 09:58:10.145]读取接口数据用时,211
+2024/01/25 09:58:10 [2024-01-25 09:58:10.976]调用接口用时,830,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Chost%2Cdomain%2Cport%2Cprotocol%2Cserver%2Ctitle%2Cheader&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=aXA9IjE3Mi42Ny4xNDQuNTAi&size=10
+2024/01/25 09:58:11 [2024-01-25 09:58:11.219]读取接口数据用时,242
+2024/01/25 09:58:11 [2024-01-25 09:58:11.344]Search,ip="172.67.144.50"
+2024/01/25 09:58:14 [2024-01-25 09:58:14.878]调用接口用时,3533,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=10&search=aXA9IjE3Mi42Ny4xNDQuNTAi&start_time=
+2024/01/25 09:58:15 [2024-01-25 09:58:15.104]读取接口数据用时,225
+2024/01/25 09:58:15 [2024-01-25 09:58:15.123]Search,host:"172.67.144.50"
+2024/01/25 09:58:16 [2024-01-25 09:58:16.089]调用接口用时,966,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 09:58:16 [2024-01-25 09:58:16.266]读取接口数据用时,175
+2024/01/25 09:58:16 [2024-01-25 09:58:16.267]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 09:58:16 [2024-01-25 09:58:16.267]抓取域名查到的IP,数据完成
+2024/01/25 09:58:16 [2024-01-25 09:58:16.267]抓取域名查到的IP,172.67.144.50
+2024/01/25 09:58:16 [2024-01-25 09:58:16.268]Search,ip="172.67.144.50"
+2024/01/25 09:58:16 [2024-01-25 09:58:16.270]Search,host="172.67.144.50"
+2024/01/25 09:58:16 [2024-01-25 09:58:16.663]调用接口用时,392,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 09:58:16 [2024-01-25 09:58:16.901]读取接口数据用时,237
+2024/01/25 09:58:17 [2024-01-25 09:58:17.821]调用接口用时,919,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Chost%2Cdomain%2Cport%2Cprotocol%2Cserver%2Ctitle%2Cheader&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=aXA9IjE3Mi42Ny4xNDQuNTAi&size=10
+2024/01/25 09:58:18 [2024-01-25 09:58:18.051]读取接口数据用时,229
+2024/01/25 09:58:18 [2024-01-25 09:58:18.062]Search,ip="172.67.144.50"
+2024/01/25 09:58:18 [2024-01-25 09:58:18.629]调用接口用时,566,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=10&search=aXA9IjE3Mi42Ny4xNDQuNTAi&start_time=
+2024/01/25 09:58:18 [2024-01-25 09:58:18.835]读取接口数据用时,205
+2024/01/25 09:58:18 [2024-01-25 09:58:18.846]Search,host:"172.67.144.50"
+2024/01/25 09:58:19 [2024-01-25 09:58:19.228]调用接口用时,381,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 09:58:19 [2024-01-25 09:58:19.430]读取接口数据用时,201
+2024/01/25 09:58:19 [2024-01-25 09:58:19.430]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 09:58:19 [2024-01-25 09:58:19.430]抓取域名查到的IP,数据完成
+2024/01/25 09:58:19 [2024-01-25 09:58:19.431]抓取域名查到的IP,156.235.99.78
+2024/01/25 09:58:19 [2024-01-25 09:58:19.431]Search,ip="156.235.99.78"
+2024/01/25 09:58:19 [2024-01-25 09:58:19.433]Search,host="156.235.99.78"
+2024/01/25 09:58:19 [2024-01-25 09:58:19.827]调用接口用时,394,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 09:58:20 [2024-01-25 09:58:20.044]读取接口数据用时,217
+2024/01/25 09:58:21 [2024-01-25 09:58:21.270]调用接口用时,1225,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Chost%2Cdomain%2Cport%2Cprotocol%2Cserver%2Ctitle%2Cheader&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=aXA9IjE1Ni4yMzUuOTkuNzgi&size=10
+2024/01/25 09:58:21 [2024-01-25 09:58:21.456]读取接口数据用时,186
+2024/01/25 09:58:21 [2024-01-25 09:58:21.466]Search,ip="156.235.99.78"
+2024/01/25 09:58:22 [2024-01-25 09:58:22.046]调用接口用时,579,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=10&search=aXA9IjE1Ni4yMzUuOTkuNzgi&start_time=
+2024/01/25 09:58:22 [2024-01-25 09:58:22.240]读取接口数据用时,193
+2024/01/25 09:58:22 [2024-01-25 09:58:22.257]Search,host:"156.235.99.78"
+2024/01/25 09:58:23 [2024-01-25 09:58:23.498]调用接口用时,1240,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 09:58:23 [2024-01-25 09:58:23.683]读取接口数据用时,184
+2024/01/25 09:58:23 [2024-01-25 09:58:23.683]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 09:58:23 [2024-01-25 09:58:23.683]抓取域名查到的IP,数据完成
+2024/01/25 09:58:56 [2024-01-25 09:58:56.438]Search,nmaps.io
+2024/01/25 09:58:56 [2024-01-25 09:58:56.443]缓存读取
+2024/01/25 09:58:56 [2024-01-25 09:58:56.450]search_to_http request ip,10.0.100.184
+2024/01/25 09:58:57 [2024-01-25 09:58:57.439]search_to_http_api_name request ip,10.0.100.184
+2024/01/25 13:03:19 [2024-01-25 13:03:19.829]创建Redis完成
+2024/01/25 13:03:19 [2024-01-25 13:03:19.882]DB2Cache 导入
+2024/01/25 13:03:19 [2024-01-25 13:03:19.893]fofasearch
+2024/01/25 13:03:25 [2024-01-25 13:03:25.880]huntersearch
+2024/01/25 13:03:29 [2024-01-25 13:03:29.331]nmapssearch
+2024/01/25 13:03:34 [2024-01-25 13:03:34.533]DB2Cache 结束
+2024/01/25 13:03:34 [2024-01-25 13:03:34.536]http server,10.0.100.172:8089
+2024/01/25 13:03:34 [2024-01-25 13:03:34.537]输入命令:
+gc:手动GC
+exit:退出服务
+按Enter键返回菜单
+a:保存Redis到Mysql
+
+2024/01/25 13:03:34 [2024-01-25 13:03:34.557]本机IP:172.19.192.1
+2024/01/25 14:47:53 [2024-01-25 14:47:53.517]创建Redis完成
+2024/01/25 14:47:53 [2024-01-25 14:47:53.581]DB2Cache 导入
+2024/01/25 14:47:53 [2024-01-25 14:47:53.594]fofasearch
+2024/01/25 14:48:01 [2024-01-25 14:48:01.435]huntersearch
+2024/01/25 14:48:07 [2024-01-25 14:48:07.129]nmapssearch
+2024/01/25 14:48:15 [2024-01-25 14:48:15.444]DB2Cache 结束
+2024/01/25 14:48:15 [2024-01-25 14:48:15.448]http server,10.0.100.172:8089
+2024/01/25 14:48:15 [2024-01-25 14:48:15.448]输入命令:
+gc:手动GC
+exit:退出服务
+按Enter键返回菜单
+a:保存Redis到Mysql
+
+2024/01/25 14:48:15 [2024-01-25 14:48:15.470]本机IP:172.19.192.1
+2024/01/25 14:48:31 [2024-01-25 14:48:31.769]Search,nmaps.io
+2024/01/25 14:48:31 [2024-01-25 14:48:31.771]Search,nmaps.io
+2024/01/25 14:48:32 [2024-01-25 14:48:32.836]调用接口用时,1064,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 14:48:32 [2024-01-25 14:48:32.875]读取接口数据用时,37
+2024/01/25 14:48:33 [2024-01-25 14:48:33.878]调用接口用时,1000,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Cport%2Cprotocol%2Ccountry%2Ccountry_name%2Cregion%2Ccity%2Clongitude%2Clatitude%2Cas_number%2Cas_organization%2Chost%2Cdomain%2Cos%2Cserver%2Cicp%2Ctitle%2Cjarm%2Cheader%2Cbanner%2Ccert%2Cbase_protocol%2Clink%2Ccerts_issuer_org%2Ccerts_issuer_cn%2Ccerts_subject_org%2Ccerts_subject_cn%2Ctls_ja3s%2Ctls_version%2Cproduct%2Cproduct_category%2Cversion%2Clastupdatetime%2Ccname%2Cicon_hash%2Ccerts_valid%2Ccname_domain%2Cbody%2Cicon%2Cfid%2Cstructinfo&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=bm1hcHMuaW8%3D&size=20
+2024/01/25 14:48:33 [2024-01-25 14:48:33.917]读取接口数据用时,37
+2024/01/25 14:48:33 [2024-01-25 14:48:33.918]调用错误,&{true 0 0 0 0   []}
+2024/01/25 14:48:33 [2024-01-25 14:48:33.919]Search,nmaps.io
+2024/01/25 14:48:35 [2024-01-25 14:48:35.692]调用接口用时,1773,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=20&search=bm1hcHMuaW8%3D&start_time=
+2024/01/25 14:48:36 [2024-01-25 14:48:36.219]读取接口数据用时,527
+2024/01/25 14:48:36 [2024-01-25 14:48:36.220]调用错误,&{200 success {个人账号 0 343 [] 消耗积分：1 今日剩余积分：29195 }}
+2024/01/25 14:48:36 [2024-01-25 14:48:36.220]Search,nmaps.io
+2024/01/25 14:48:46 [2024-01-25 14:48:46.230]捕捉:Post "https://quake.360.net/api/v3/search/quake_service": context deadline exceeded (Client.Timeout exceeded while awaiting headers),行号419,代码E:/work/go/lufergo/model/netspace/netspace.go
+2024/01/25 14:48:46 [2024-01-25 14:48:46.231]Search over
+2024/01/25 14:48:46 [2024-01-25 14:48:46.236]search_to_http request ip,10.0.100.172
+2024/01/25 14:48:46 [2024-01-25 14:48:46.236]search_to_http:A,14468
+2024/01/25 14:53:40 [2024-01-25 14:53:40.350]创建Redis完成
+2024/01/25 14:53:40 [2024-01-25 14:53:40.397]DB2Cache 导入
+2024/01/25 14:53:40 [2024-01-25 14:53:40.410]fofasearch
+2024/01/25 14:53:47 [2024-01-25 14:53:47.140]huntersearch
+2024/01/25 14:53:51 [2024-01-25 14:53:51.455]nmapssearch
+2024/01/25 14:53:58 [2024-01-25 14:53:58.219]DB2Cache 结束
+2024/01/25 14:53:58 [2024-01-25 14:53:58.222]http server,10.0.100.172:8089
+2024/01/25 14:53:58 [2024-01-25 14:53:58.222]输入命令:
+gc:手动GC
+exit:退出服务
+按Enter键返回菜单
+a:保存Redis到Mysql
+
+2024/01/25 14:53:58 [2024-01-25 14:53:58.241]本机IP:172.19.192.1
+2024/01/25 14:54:38 [2024-01-25 14:54:38.900]Search,nmaps.io
+2024/01/25 14:55:09 [2024-01-25 14:55:09.922]Search,nmaps.io
+2024/01/25 14:56:15 [2024-01-25 14:56:15.029]调用接口用时,1317,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 14:56:15 [2024-01-25 14:56:15.559]读取接口数据用时,530
+2024/01/25 14:58:42 [2024-01-25 14:58:42.958]调用接口用时,1178,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Cport%2Cprotocol%2Ccountry%2Ccountry_name%2Cregion%2Ccity%2Clongitude%2Clatitude%2Cas_number%2Cas_organization%2Chost%2Cdomain%2Cos%2Cserver%2Cicp%2Ctitle%2Cjarm%2Cheader%2Cbanner%2Ccert%2Cbase_protocol%2Clink%2Ccerts_issuer_org%2Ccerts_issuer_cn%2Ccerts_subject_org%2Ccerts_subject_cn%2Ctls_ja3s%2Ctls_version%2Cproduct%2Cproduct_category%2Cversion%2Clastupdatetime%2Ccname%2Cicon_hash%2Ccerts_valid%2Ccname_domain%2Cbody%2Cicon%2Cfid%2Cstructinfo&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=bm1hcHMuaW8%3D&size=20
+2024/01/25 14:58:43 [2024-01-25 14:58:43.210]读取接口数据用时,250
+2024/01/25 15:07:16 [2024-01-25 15:07:16.324]调用错误,&{true 0 0 0 0   []}
+2024/01/25 15:07:30 [2024-01-25 15:07:30.167]Search,nmaps.io
+2024/01/25 15:07:34 [2024-01-25 15:07:34.962]调用接口用时,2736,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=20&search=bm1hcHMuaW8%3D&start_time=
+2024/01/25 15:07:35 [2024-01-25 15:07:35.296]读取接口数据用时,333
+2024/01/25 15:08:51 [2024-01-25 15:08:51.316]调用错误,&{200 success {个人账号 0 435 [] 消耗积分：1 今日剩余积分：29117 }}
+2024/01/25 15:09:02 [2024-01-25 15:09:02.694]Search,nmaps.io
+2024/01/25 15:09:08 [2024-01-25 15:09:08.443]调用接口用时,3729,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 15:09:08 [2024-01-25 15:09:08.479]读取接口数据用时,35
+2024/01/25 15:09:55 [2024-01-25 15:09:55.356]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 15:10:37 [2024-01-25 15:10:37.150]Search over
+2024/01/25 15:10:37 [2024-01-25 15:10:37.156]search_to_http request ip,10.0.100.172
+2024/01/25 15:10:37 [2024-01-25 15:10:37.156]search_to_http:A,958257
+2024/01/25 15:12:04 [2024-01-25 15:12:04.948]创建Redis完成
+2024/01/25 15:12:05 [2024-01-25 15:12:05.000]DB2Cache 导入
+2024/01/25 15:12:05 [2024-01-25 15:12:05.010]fofasearch
+2024/01/25 15:12:12 [2024-01-25 15:12:12.416]huntersearch
+2024/01/25 15:12:17 [2024-01-25 15:12:17.236]nmapssearch
+2024/01/25 15:12:24 [2024-01-25 15:12:24.021]DB2Cache 结束
+2024/01/25 15:12:24 [2024-01-25 15:12:24.023]http server,10.0.100.172:8089
+2024/01/25 15:12:24 [2024-01-25 15:12:24.023]输入命令:
+gc:手动GC
+exit:退出服务
+按Enter键返回菜单
+a:保存Redis到Mysql
+
+2024/01/25 15:12:24 [2024-01-25 15:12:24.040]本机IP:172.19.192.1
+2024/01/25 15:12:27 [2024-01-25 15:12:27.273]Search,nmaps.io
+2024/01/25 15:12:28 [2024-01-25 15:12:28.960]调用接口用时,1687,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 15:12:28 [2024-01-25 15:12:28.992]读取接口数据用时,31
+2024/01/25 15:12:29 [2024-01-25 15:12:29.846]调用接口用时,853,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Cport%2Cprotocol%2Ccountry%2Ccountry_name%2Cregion%2Ccity%2Clongitude%2Clatitude%2Cas_number%2Cas_organization%2Chost%2Cdomain%2Cos%2Cserver%2Cicp%2Ctitle%2Cjarm%2Cheader%2Cbanner%2Ccert%2Cbase_protocol%2Clink%2Ccerts_issuer_org%2Ccerts_issuer_cn%2Ccerts_subject_org%2Ccerts_subject_cn%2Ctls_ja3s%2Ctls_version%2Cproduct%2Cproduct_category%2Cversion%2Clastupdatetime%2Ccname%2Cicon_hash%2Ccerts_valid%2Ccname_domain%2Cbody%2Cicon%2Cfid%2Cstructinfo&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=bm1hcHMuaW8%3D&size=20
+2024/01/25 15:12:29 [2024-01-25 15:12:29.888]读取接口数据用时,41
+2024/01/25 15:12:29 [2024-01-25 15:12:29.889]调用错误,&{true [820001] 没有权限搜索icon_hash字段 0 0 0 0   []}
+2024/01/25 15:12:29 [2024-01-25 15:12:29.889]Search,nmaps.io
+2024/01/25 15:12:32 [2024-01-25 15:12:32.136]调用接口用时,2246,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=20&search=bm1hcHMuaW8%3D&start_time=
+2024/01/25 15:12:32 [2024-01-25 15:12:32.787]读取接口数据用时,650
+2024/01/25 15:12:32 [2024-01-25 15:12:32.788]无返回数据,&{200 success {个人账号 0 1 [] 消耗积分：1 今日剩余积分：29116 }}
+2024/01/25 15:12:32 [2024-01-25 15:12:32.789]Search,nmaps.io
+2024/01/25 15:12:35 [2024-01-25 15:12:35.836]调用接口用时,3046,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 15:12:36 [2024-01-25 15:12:36.470]读取接口数据用时,634
+2024/01/25 15:12:36 [2024-01-25 15:12:36.473]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 15:12:36 [2024-01-25 15:12:36.473]Search over
+2024/01/25 15:12:36 [2024-01-25 15:12:36.476]search_to_http request ip,10.0.100.172
+2024/01/25 15:12:36 [2024-01-25 15:12:36.477]search_to_http:A,9206
+2024/01/25 15:13:59 [2024-01-25 15:13:59.608]创建Redis完成
+2024/01/25 15:13:59 [2024-01-25 15:13:59.652]DB2Cache 导入
+2024/01/25 15:13:59 [2024-01-25 15:13:59.660]huntersearch
+2024/01/25 15:14:04 [2024-01-25 15:14:04.331]nmapssearch
+2024/01/25 15:14:10 [2024-01-25 15:14:10.751]fofasearch
+2024/01/25 15:14:17 [2024-01-25 15:14:17.401]DB2Cache 结束
+2024/01/25 15:14:17 [2024-01-25 15:14:17.404]http server,10.0.100.172:8089
+2024/01/25 15:14:17 [2024-01-25 15:14:17.404]输入命令:
+gc:手动GC
+exit:退出服务
+按Enter键返回菜单
+a:保存Redis到Mysql
+
+2024/01/25 15:14:17 [2024-01-25 15:14:17.423]本机IP:172.19.192.1
+2024/01/25 15:15:31 [2024-01-25 15:15:31.033]Search,nmaps.io
+2024/01/25 15:15:32 [2024-01-25 15:15:32.507]调用接口用时,1474,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 15:15:33 [2024-01-25 15:15:33.046]读取接口数据用时,539
+2024/01/25 15:15:34 [2024-01-25 15:15:34.229]调用接口用时,1181,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Cport%2Cprotocol%2Ccountry%2Ccountry_name%2Cregion%2Ccity%2Clongitude%2Clatitude%2Cas_number%2Cas_organization%2Chost%2Cdomain%2Cos%2Cserver%2Cicp%2Ctitle%2Cjarm%2Cheader%2Cbanner%2Ccert%2Cbase_protocol%2Clink%2Ccerts_issuer_org%2Ccerts_issuer_cn%2Ccerts_subject_org%2Ccerts_subject_cn%2Ctls_ja3s%2Ctls_version%2Cproduct%2Cproduct_category%2Cversion%2Clastupdatetime%2Ccname%2Cicon%2Cfid%2Cstructinfo&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=bm1hcHMuaW8%3D&size=20
+2024/01/25 15:15:34 [2024-01-25 15:15:34.249]读取接口数据用时,19
+2024/01/25 15:15:34 [2024-01-25 15:15:34.250]调用错误,&{true [820001] 没有权限搜索icon字段 0 0 0 0   []}
+2024/01/25 15:15:34 [2024-01-25 15:15:34.251]Search,nmaps.io
+2024/01/25 15:15:35 [2024-01-25 15:15:35.799]调用接口用时,1547,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=20&search=bm1hcHMuaW8%3D&start_time=
+2024/01/25 15:15:35 [2024-01-25 15:15:35.988]读取接口数据用时,188
+2024/01/25 15:15:35 [2024-01-25 15:15:35.989]无返回数据,&{200 success {个人账号 0 1 [] 消耗积分：1 今日剩余积分：29115 }}
+2024/01/25 15:15:35 [2024-01-25 15:15:35.990]Search,nmaps.io
+2024/01/25 15:15:38 [2024-01-25 15:15:38.339]调用接口用时,2349,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 15:15:38 [2024-01-25 15:15:38.923]读取接口数据用时,583
+2024/01/25 15:15:38 [2024-01-25 15:15:38.924]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 15:15:38 [2024-01-25 15:15:38.925]Search over
+2024/01/25 15:15:38 [2024-01-25 15:15:38.928]search_to_http request ip,10.0.100.172
+2024/01/25 15:15:38 [2024-01-25 15:15:38.929]search_to_http:A,7899
+2024/01/25 15:16:19 [2024-01-25 15:16:19.303]创建Redis完成
+2024/01/25 15:16:19 [2024-01-25 15:16:19.359]DB2Cache 导入
+2024/01/25 15:16:19 [2024-01-25 15:16:19.368]fofasearch
+2024/01/25 15:16:26 [2024-01-25 15:16:26.029]huntersearch
+2024/01/25 15:16:30 [2024-01-25 15:16:30.505]nmapssearch
+2024/01/25 15:16:37 [2024-01-25 15:16:37.019]DB2Cache 结束
+2024/01/25 15:16:37 [2024-01-25 15:16:37.021]http server,10.0.100.172:8089
+2024/01/25 15:16:37 [2024-01-25 15:16:37.022]输入命令:
+gc:手动GC
+exit:退出服务
+按Enter键返回菜单
+a:保存Redis到Mysql
+
+2024/01/25 15:16:37 [2024-01-25 15:16:37.040]本机IP:172.19.192.1
+2024/01/25 15:16:40 [2024-01-25 15:16:40.616]Search,nmaps.io
+2024/01/25 15:16:42 [2024-01-25 15:16:42.093]调用接口用时,1476,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 15:16:42 [2024-01-25 15:16:42.137]读取接口数据用时,43
+2024/01/25 15:16:45 [2024-01-25 15:16:45.281]调用接口用时,3142,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Cport%2Cprotocol%2Ccountry%2Ccountry_name%2Cregion%2Ccity%2Clongitude%2Clatitude%2Cas_number%2Cas_organization%2Chost%2Cdomain%2Cos%2Cserver%2Cicp%2Ctitle%2Cjarm%2Cheader%2Cbanner%2Ccert%2Cbase_protocol%2Clink%2Ccerts_issuer_org%2Ccerts_issuer_cn%2Ccerts_subject_org%2Ccerts_subject_cn%2Ctls_ja3s%2Ctls_version%2Cproduct%2Cproduct_category%2Cversion%2Clastupdatetime%2Ccname&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=bm1hcHMuaW8%3D&size=20
+2024/01/25 15:16:45 [2024-01-25 15:16:45.319]读取接口数据用时,37
+2024/01/25 15:16:45 [2024-01-25 15:16:45.327]Search,nmaps.io
+2024/01/25 15:16:47 [2024-01-25 15:16:47.035]调用接口用时,1707,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=20&search=bm1hcHMuaW8%3D&start_time=
+2024/01/25 15:16:47 [2024-01-25 15:16:47.621]读取接口数据用时,585
+2024/01/25 15:16:47 [2024-01-25 15:16:47.622]无返回数据,&{200 success {个人账号 0 1 [] 消耗积分：1 今日剩余积分：29114 }}
+2024/01/25 15:16:47 [2024-01-25 15:16:47.623]Search,nmaps.io
+2024/01/25 15:16:49 [2024-01-25 15:16:49.660]调用接口用时,2037,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 15:16:50 [2024-01-25 15:16:50.198]读取接口数据用时,538
+2024/01/25 15:16:50 [2024-01-25 15:16:50.199]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 15:16:50 http: panic serving 10.0.100.172:53717: runtime error: index out of range [37] with length 34
+goroutine 14 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1854 +0x148
+panic({0x10442c0, 0xc0004b61c8})
+	C:/Program Files/Go/src/runtime/panic.go:890 +0x262
+lufergo/model/netspace.megerFofa(0xc0001ac1c0, 0xc0004c2000)
+	E:/work/go/lufergo/model/netspace/netspace.go:251 +0x8af
+lufergo/model/netspace.Search({0xc00086e000, 0x4f, 0x200}, {0x0, 0x0, 0x0})
+	E:/work/go/lufergo/model/netspace/netspace.go:136 +0x8f4
+lufergo/service.search_to_http(0xc0004fe200)
+	E:/work/go/lufergo/service/httpsvr.go:23 +0x116
+github.com/gin-gonic/gin.(*Context).Next(0xc0004fe200)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 +0x7d
+lufergo/model/network.accessControlAllowOriginMiddleware.func1(0xc0004fe200)
+	E:/work/go/lufergo/model/network/httpapi.go:108 +0x22e
+github.com/gin-gonic/gin.(*Context).Next(0xc0004fe200)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 +0x7d
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest(0xc000584b60, 0xc0004fe200)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:620 +0x434
+github.com/gin-gonic/gin.(*Engine).ServeHTTP(0xc000584b60, {0x1108e00, 0xc0009ec000}, 0xc0004fe100)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:576 +0xc5
+net/http.serverHandler.ServeHTTP({0xc0009d8000}, {0x1108e00, 0xc0009ec000}, 0xc0004fe100)
+	C:/Program Files/Go/src/net/http/server.go:2936 +0x494
+net/http.(*conn).serve(0xc0001a61b0, {0x1109388, 0xc0004aa0a0})
+	C:/Program Files/Go/src/net/http/server.go:1995 +0x19b5
+created by net/http.(*Server).Serve
+	C:/Program Files/Go/src/net/http/server.go:3089 +0xa16
+2024/01/25 15:18:56 [2024-01-25 15:18:56.327]创建Redis完成
+2024/01/25 15:18:56 [2024-01-25 15:18:56.371]DB2Cache 导入
+2024/01/25 15:18:56 [2024-01-25 15:18:56.379]fofasearch
+2024/01/25 15:19:03 [2024-01-25 15:19:03.057]huntersearch
+2024/01/25 15:19:07 [2024-01-25 15:19:07.553]nmapssearch
+2024/01/25 15:19:14 [2024-01-25 15:19:14.244]DB2Cache 结束
+2024/01/25 15:19:14 [2024-01-25 15:19:14.247]http server,10.0.100.172:8089
+2024/01/25 15:19:14 [2024-01-25 15:19:14.247]输入命令:
+gc:手动GC
+exit:退出服务
+按Enter键返回菜单
+a:保存Redis到Mysql
+
+2024/01/25 15:19:14 [2024-01-25 15:19:14.266]本机IP:172.19.192.1
+2024/01/25 15:19:47 [2024-01-25 15:19:47.128]Search,nmaps.io
+2024/01/25 15:20:14 [2024-01-25 15:20:14.282]调用接口用时,1692,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 15:20:14 [2024-01-25 15:20:14.321]读取接口数据用时,39
+2024/01/25 15:24:36 [2024-01-25 15:24:36.724]捕捉:Get "https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Cport%2Cprotocol%2Ccountry%2Ccountry_name%2Cregion%2Ccity%2Clongitude%2Clatitude%2Cas_number%2Cas_organization%2Chost%2Cdomain%2Cos%2Cserver%2Cicp%2Ctitle%2Cjarm%2Cheader%2Cbanner%2Ccert%2Cbase_protocol%2Clink%2Ccerts_issuer_org%2Ccerts_issuer_cn%2Ccerts_subject_org%2Ccerts_subject_cn%2Ctls_ja3s%2Ctls_version%2Cproduct%2Cproduct_category%2Cversion%2Clastupdatetime%2Ccname&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=bm1hcHMuaW8%3D&size=20": context deadline exceeded (Client.Timeout exceeded while awaiting headers),行号419,代码E:/work/go/lufergo/model/netspace/netspace.go
+2024/01/25 15:25:14 [2024-01-25 15:25:14.441]Search,nmaps.io
+2024/01/25 15:25:15 [2024-01-25 15:25:15.984]调用接口用时,1542,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=20&search=bm1hcHMuaW8%3D&start_time=
+2024/01/25 15:25:16 [2024-01-25 15:25:16.712]读取接口数据用时,728
+2024/01/25 15:25:16 [2024-01-25 15:25:16.714]无返回数据,&{200 success {个人账号 0 1 [] 消耗积分：1 今日剩余积分：29113 }}
+2024/01/25 15:25:16 [2024-01-25 15:25:16.715]Search,nmaps.io
+2024/01/25 15:25:21 [2024-01-25 15:25:21.575]捕捉:Post "https://quake.360.net/api/v3/search/quake_service": EOF,行号419,代码E:/work/go/lufergo/model/netspace/netspace.go
+2024/01/25 15:25:21 [2024-01-25 15:25:21.577]Search over
+2024/01/25 15:25:21 [2024-01-25 15:25:21.588]search_to_http request ip,10.0.100.172
+2024/01/25 15:25:21 [2024-01-25 15:25:21.589]search_to_http:A,334463
+2024/01/25 15:26:02 [2024-01-25 15:26:02.561]缓存读取
+2024/01/25 15:26:02 [2024-01-25 15:26:02.563]search_to_http request ip,10.0.100.172
+2024/01/25 15:26:17 [2024-01-25 15:26:17.520]创建Redis完成
+2024/01/25 15:26:17 [2024-01-25 15:26:17.593]DB2Cache 导入
+2024/01/25 15:26:17 [2024-01-25 15:26:17.605]fofasearch
+2024/01/25 15:26:27 [2024-01-25 15:26:27.076]huntersearch
+2024/01/25 15:26:33 [2024-01-25 15:26:33.064]nmapssearch
+2024/01/25 15:26:42 [2024-01-25 15:26:42.570]DB2Cache 结束
+2024/01/25 15:26:42 [2024-01-25 15:26:42.574]http server,10.0.100.172:8089
+2024/01/25 15:26:42 [2024-01-25 15:26:42.574]输入命令:
+gc:手动GC
+exit:退出服务
+按Enter键返回菜单
+a:保存Redis到Mysql
+
+2024/01/25 15:26:42 [2024-01-25 15:26:42.595]本机IP:172.19.192.1
+2024/01/25 15:27:10 [2024-01-25 15:27:10.837]Search,nmaps.io
+2024/01/25 15:27:12 [2024-01-25 15:27:12.551]调用接口用时,1713,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 15:27:12 [2024-01-25 15:27:12.592]读取接口数据用时,39
+2024/01/25 15:27:15 [2024-01-25 15:27:15.198]调用接口用时,2605,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Cport%2Cprotocol%2Ccountry%2Ccountry_name%2Cregion%2Ccity%2Clongitude%2Clatitude%2Cas_number%2Cas_organization%2Chost%2Cdomain%2Cos%2Cserver%2Cicp%2Ctitle%2Cjarm%2Cheader%2Cbanner%2Ccert%2Cbase_protocol%2Clink%2Ccerts_issuer_org%2Ccerts_issuer_cn%2Ccerts_subject_org%2Ccerts_subject_cn%2Ctls_ja3s%2Ctls_version%2Cproduct%2Cproduct_category%2Cversion%2Clastupdatetime%2Ccname&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=bm1hcHMuaW8%3D&size=20
+2024/01/25 15:27:15 [2024-01-25 15:27:15.234]读取接口数据用时,34
+2024/01/25 15:27:54 [2024-01-25 15:27:54.205]Search,nmaps.io
+2024/01/25 15:27:55 [2024-01-25 15:27:55.589]调用接口用时,1384,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=20&search=bm1hcHMuaW8%3D&start_time=
+2024/01/25 15:27:56 [2024-01-25 15:27:56.098]读取接口数据用时,508
+2024/01/25 15:27:56 [2024-01-25 15:27:56.099]无返回数据,&{200 success {个人账号 0 1 [] 消耗积分：1 今日剩余积分：29112 }}
+2024/01/25 15:27:56 [2024-01-25 15:27:56.100]Search,nmaps.io
+2024/01/25 15:28:02 [2024-01-25 15:28:02.722]调用接口用时,6621,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 15:28:03 [2024-01-25 15:28:03.251]读取接口数据用时,529
+2024/01/25 15:28:03 [2024-01-25 15:28:03.253]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 15:28:03 http: panic serving 10.0.100.172:54293: runtime error: index out of range [37] with length 34
+goroutine 110 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1854 +0x148
+panic({0xbc42c0, 0xc000020660})
+	C:/Program Files/Go/src/runtime/panic.go:890 +0x262
+lufergo/model/netspace.megerFofa(0xc00021c1c0, 0xc00073a000)
+	E:/work/go/lufergo/model/netspace/netspace.go:251 +0x8af
+lufergo/model/netspace.Search({0xc00055a200, 0x4f, 0x200}, {0x0, 0x0, 0x0})
+	E:/work/go/lufergo/model/netspace/netspace.go:136 +0x8f4
+lufergo/service.search_to_http(0xc0001b8200)
+	E:/work/go/lufergo/service/httpsvr.go:23 +0x116
+github.com/gin-gonic/gin.(*Context).Next(0xc0001b8200)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 +0x7d
+lufergo/model/network.accessControlAllowOriginMiddleware.func1(0xc0001b8200)
+	E:/work/go/lufergo/model/network/httpapi.go:108 +0x22e
+github.com/gin-gonic/gin.(*Context).Next(0xc0001b8200)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 +0x7d
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest(0xc0004d6680, 0xc0001b8200)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:620 +0x434
+github.com/gin-gonic/gin.(*Engine).ServeHTTP(0xc0004d6680, {0xc88e00, 0xc000a10000}, 0xc0001b8100)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:576 +0xc5
+net/http.serverHandler.ServeHTTP({0xc0006a4000}, {0xc88e00, 0xc000a10000}, 0xc0001b8100)
+	C:/Program Files/Go/src/net/http/server.go:2936 +0x494
+net/http.(*conn).serve(0xc00021a1b0, {0xc89388, 0xc00071c0f0})
+	C:/Program Files/Go/src/net/http/server.go:1995 +0x19b5
+created by net/http.(*Server).Serve
+	C:/Program Files/Go/src/net/http/server.go:3089 +0xa16
+2024/01/25 15:28:20 [2024-01-25 15:28:20.118]Search,nmaps.io
+2024/01/25 15:28:21 [2024-01-25 15:28:21.216]调用接口用时,1097,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 15:28:21 [2024-01-25 15:28:21.435]读取接口数据用时,219
+2024/01/25 15:28:23 [2024-01-25 15:28:23.308]调用接口用时,1870,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Cport%2Cprotocol%2Ccountry%2Ccountry_name%2Cregion%2Ccity%2Clongitude%2Clatitude%2Cas_number%2Cas_organization%2Chost%2Cdomain%2Cos%2Cserver%2Cicp%2Ctitle%2Cjarm%2Cheader%2Cbanner%2Ccert%2Cbase_protocol%2Clink%2Ccerts_issuer_org%2Ccerts_issuer_cn%2Ccerts_subject_org%2Ccerts_subject_cn%2Ctls_ja3s%2Ctls_version%2Cproduct%2Cproduct_category%2Cversion%2Clastupdatetime%2Ccname&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=bm1hcHMuaW8%3D&size=20
+2024/01/25 15:28:23 [2024-01-25 15:28:23.502]读取接口数据用时,192
+2024/01/25 15:28:23 [2024-01-25 15:28:23.518]Search,nmaps.io
+2024/01/25 15:28:25 [2024-01-25 15:28:25.544]调用接口用时,2025,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=20&search=bm1hcHMuaW8%3D&start_time=
+2024/01/25 15:28:25 [2024-01-25 15:28:25.751]读取接口数据用时,206
+2024/01/25 15:28:25 [2024-01-25 15:28:25.752]无返回数据,&{200 success {个人账号 0 2 [] 消耗积分：1 今日剩余积分：29111 }}
+2024/01/25 15:28:25 [2024-01-25 15:28:25.753]Search,nmaps.io
+2024/01/25 15:28:26 [2024-01-25 15:28:26.617]调用接口用时,863,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 15:28:26 [2024-01-25 15:28:26.822]读取接口数据用时,204
+2024/01/25 15:28:26 [2024-01-25 15:28:26.824]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 15:28:26 http: panic serving 10.0.100.172:54324: runtime error: index out of range [37] with length 34
+goroutine 279 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1854 +0x148
+panic({0xbc42c0, 0xc000362618})
+	C:/Program Files/Go/src/runtime/panic.go:890 +0x262
+lufergo/model/netspace.megerFofa(0xc000a10000, 0xc0001a6230)
+	E:/work/go/lufergo/model/netspace/netspace.go:251 +0x8af
+lufergo/model/netspace.Search({0xc00055a000, 0x4f, 0x200}, {0x0, 0x0, 0x0})
+	E:/work/go/lufergo/model/netspace/netspace.go:136 +0x8f4
+lufergo/service.search_to_http(0xc000768300)
+	E:/work/go/lufergo/service/httpsvr.go:23 +0x116
+github.com/gin-gonic/gin.(*Context).Next(0xc000768300)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 +0x7d
+lufergo/model/network.accessControlAllowOriginMiddleware.func1(0xc000768300)
+	E:/work/go/lufergo/model/network/httpapi.go:108 +0x22e
+github.com/gin-gonic/gin.(*Context).Next(0xc000768300)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 +0x7d
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest(0xc0004d6680, 0xc000768300)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:620 +0x434
+github.com/gin-gonic/gin.(*Engine).ServeHTTP(0xc0004d6680, {0xc88e00, 0xc00021c2a0}, 0xc000768000)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:576 +0xc5
+net/http.serverHandler.ServeHTTP({0xc0006a4000}, {0xc88e00, 0xc00021c2a0}, 0xc000768000)
+	C:/Program Files/Go/src/net/http/server.go:2936 +0x494
+net/http.(*conn).serve(0xc0009b2bd0, {0xc89388, 0xc0000f0460})
+	C:/Program Files/Go/src/net/http/server.go:1995 +0x19b5
+created by net/http.(*Server).Serve
+	C:/Program Files/Go/src/net/http/server.go:3089 +0xa16
+2024/01/25 15:28:32 [2024-01-25 15:28:32.940]Search,nmaps.io
+2024/01/25 15:28:33 [2024-01-25 15:28:33.277]调用接口用时,337,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 15:28:33 [2024-01-25 15:28:33.481]读取接口数据用时,204
+2024/01/25 15:28:34 [2024-01-25 15:28:34.265]调用接口用时,781,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Cport%2Cprotocol%2Ccountry%2Ccountry_name%2Cregion%2Ccity%2Clongitude%2Clatitude%2Cas_number%2Cas_organization%2Chost%2Cdomain%2Cos%2Cserver%2Cicp%2Ctitle%2Cjarm%2Cheader%2Cbanner%2Ccert%2Cbase_protocol%2Clink%2Ccerts_issuer_org%2Ccerts_issuer_cn%2Ccerts_subject_org%2Ccerts_subject_cn%2Ctls_ja3s%2Ctls_version%2Cproduct%2Cproduct_category%2Cversion%2Clastupdatetime%2Ccname&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=bm1hcHMuaW8%3D&size=20
+2024/01/25 15:28:34 [2024-01-25 15:28:34.482]读取接口数据用时,216
+2024/01/25 15:28:34 [2024-01-25 15:28:34.499]Search,nmaps.io
+2024/01/25 15:28:35 [2024-01-25 15:28:35.080]调用接口用时,581,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=20&search=bm1hcHMuaW8%3D&start_time=
+2024/01/25 15:28:35 [2024-01-25 15:28:35.285]读取接口数据用时,203
+2024/01/25 15:28:35 [2024-01-25 15:28:35.286]无返回数据,&{200 success {个人账号 0 1 [] 消耗积分：1 今日剩余积分：29110 }}
+2024/01/25 15:28:35 [2024-01-25 15:28:35.288]Search,nmaps.io
+2024/01/25 15:28:41 [2024-01-25 15:28:41.438]调用接口用时,6149,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 15:28:41 [2024-01-25 15:28:41.650]读取接口数据用时,211
+2024/01/25 15:28:41 [2024-01-25 15:28:41.651]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 15:28:41 http: panic serving 10.0.100.172:54329: runtime error: index out of range [37] with length 34
+goroutine 151 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1854 +0x148
+panic({0xbc42c0, 0xc000738408})
+	C:/Program Files/Go/src/runtime/panic.go:890 +0x262
+lufergo/model/netspace.megerFofa(0xc000a100e0, 0xc00073a000)
+	E:/work/go/lufergo/model/netspace/netspace.go:251 +0x8af
+lufergo/model/netspace.Search({0xc00055a200, 0x4f, 0x200}, {0x0, 0x0, 0x0})
+	E:/work/go/lufergo/model/netspace/netspace.go:136 +0x8f4
+lufergo/service.search_to_http(0xc0001b8400)
+	E:/work/go/lufergo/service/httpsvr.go:23 +0x116
+github.com/gin-gonic/gin.(*Context).Next(0xc0001b8400)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 +0x7d
+lufergo/model/network.accessControlAllowOriginMiddleware.func1(0xc0001b8400)
+	E:/work/go/lufergo/model/network/httpapi.go:108 +0x22e
+github.com/gin-gonic/gin.(*Context).Next(0xc0001b8400)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 +0x7d
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest(0xc0004d6680, 0xc0001b8400)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:620 +0x434
+github.com/gin-gonic/gin.(*Engine).ServeHTTP(0xc0004d6680, {0xc88e00, 0xc00021c1c0}, 0xc0001b8100)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:576 +0xc5
+net/http.serverHandler.ServeHTTP({0xc0006a4000}, {0xc88e00, 0xc00021c1c0}, 0xc0001b8100)
+	C:/Program Files/Go/src/net/http/server.go:2936 +0x494
+net/http.(*conn).serve(0xc00021a2d0, {0xc89388, 0xc0000f00f0})
+	C:/Program Files/Go/src/net/http/server.go:1995 +0x19b5
+created by net/http.(*Server).Serve
+	C:/Program Files/Go/src/net/http/server.go:3089 +0xa16
+2024/01/25 15:29:12 [2024-01-25 15:29:12.015]Search,nmaps.io
+2024/01/25 15:29:12 [2024-01-25 15:29:12.362]调用接口用时,346,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 15:29:12 [2024-01-25 15:29:12.589]读取接口数据用时,227
+2024/01/25 15:29:22 [2024-01-25 15:29:22.306]调用接口用时,1156,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Cport%2Cprotocol%2Ccountry%2Ccountry_name%2Cregion%2Ccity%2Clongitude%2Clatitude%2Cas_number%2Cas_organization%2Chost%2Cdomain%2Cos%2Cserver%2Cicp%2Ctitle%2Cjarm%2Cheader%2Cbanner%2Ccert%2Cbase_protocol%2Clink%2Ccerts_issuer_org%2Ccerts_issuer_cn%2Ccerts_subject_org%2Ccerts_subject_cn%2Ctls_ja3s%2Ctls_version%2Cproduct%2Cproduct_category%2Cversion%2Clastupdatetime%2Ccname&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=bm1hcHMuaW8%3D&size=20
+2024/01/25 15:29:22 [2024-01-25 15:29:22.509]读取接口数据用时,201
+2024/01/25 15:29:22 [2024-01-25 15:29:22.524]Search,nmaps.io
+2024/01/25 15:29:24 [2024-01-25 15:29:24.834]调用接口用时,2310,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=20&search=bm1hcHMuaW8%3D&start_time=
+2024/01/25 15:29:25 [2024-01-25 15:29:25.031]读取接口数据用时,196
+2024/01/25 15:29:25 [2024-01-25 15:29:25.032]无返回数据,&{200 success {个人账号 0 1 [] 消耗积分：1 今日剩余积分：29109 }}
+2024/01/25 15:29:25 [2024-01-25 15:29:25.033]Search,nmaps.io
+2024/01/25 15:29:26 [2024-01-25 15:29:26.412]调用接口用时,1379,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 15:29:26 [2024-01-25 15:29:26.604]读取接口数据用时,191
+2024/01/25 15:29:26 [2024-01-25 15:29:26.605]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 15:29:26 http: panic serving 10.0.100.172:54354: runtime error: index out of range [37] with length 34
+goroutine 325 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1854 +0x148
+panic({0xbc42c0, 0xc000362b88})
+	C:/Program Files/Go/src/runtime/panic.go:890 +0x262
+lufergo/model/netspace.megerFofa(0xc000a101c0, 0xc000712000)
+	E:/work/go/lufergo/model/netspace/netspace.go:251 +0x8af
+lufergo/model/netspace.Search({0xc00055a000, 0x4f, 0x200}, {0x0, 0x0, 0x0})
+	E:/work/go/lufergo/model/netspace/netspace.go:136 +0x8f4
+lufergo/service.search_to_http(0xc0001b8500)
+	E:/work/go/lufergo/service/httpsvr.go:23 +0x116
+github.com/gin-gonic/gin.(*Context).Next(0xc0001b8500)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 +0x7d
+lufergo/model/network.accessControlAllowOriginMiddleware.func1(0xc0001b8500)
+	E:/work/go/lufergo/model/network/httpapi.go:108 +0x22e
+github.com/gin-gonic/gin.(*Context).Next(0xc0001b8500)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 +0x7d
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest(0xc0004d6680, 0xc0001b8500)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:620 +0x434
+github.com/gin-gonic/gin.(*Engine).ServeHTTP(0xc0004d6680, {0xc88e00, 0xc000a10000}, 0xc0001b8200)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:576 +0xc5
+net/http.serverHandler.ServeHTTP({0xc0006a4000}, {0xc88e00, 0xc000a10000}, 0xc0001b8200)
+	C:/Program Files/Go/src/net/http/server.go:2936 +0x494
+net/http.(*conn).serve(0xc0009b22d0, {0xc89388, 0xc0007a0050})
+	C:/Program Files/Go/src/net/http/server.go:1995 +0x19b5
+created by net/http.(*Server).Serve
+	C:/Program Files/Go/src/net/http/server.go:3089 +0xa16
+2024/01/25 15:29:41 [2024-01-25 15:29:41.270]Search,nmaps.io
+2024/01/25 15:29:41 [2024-01-25 15:29:41.589]调用接口用时,319,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 15:29:41 [2024-01-25 15:29:41.813]读取接口数据用时,223
+2024/01/25 15:29:43 [2024-01-25 15:29:43.788]调用接口用时,1973,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Cport%2Cprotocol%2Ccountry%2Ccountry_name%2Cregion%2Ccity%2Clongitude%2Clatitude%2Cas_number%2Cas_organization%2Chost%2Cdomain%2Cos%2Cserver%2Cicp%2Ctitle%2Cjarm%2Cheader%2Cbanner%2Ccert%2Cbase_protocol%2Clink%2Ccerts_issuer_org%2Ccerts_issuer_cn%2Ccerts_subject_org%2Ccerts_subject_cn%2Ctls_ja3s%2Ctls_version%2Cproduct%2Cproduct_category%2Cversion%2Clastupdatetime%2Ccname&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=bm1hcHMuaW8%3D&size=20
+2024/01/25 15:29:43 [2024-01-25 15:29:43.993]读取接口数据用时,203
+2024/01/25 15:29:44 [2024-01-25 15:29:44.006]Search,nmaps.io
+2024/01/25 15:29:45 [2024-01-25 15:29:45.417]调用接口用时,1411,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=20&search=bm1hcHMuaW8%3D&start_time=
+2024/01/25 15:29:45 [2024-01-25 15:29:45.611]读取接口数据用时,194
+2024/01/25 15:29:45 [2024-01-25 15:29:45.612]无返回数据,&{200 success {个人账号 0 0 [] 消耗积分：1 今日剩余积分：29108 }}
+2024/01/25 15:29:45 [2024-01-25 15:29:45.613]Search,nmaps.io
+2024/01/25 15:29:48 [2024-01-25 15:29:48.774]调用接口用时,3160,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 15:29:48 [2024-01-25 15:29:48.969]读取接口数据用时,194
+2024/01/25 15:29:48 [2024-01-25 15:29:48.970]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 15:30:07 http: panic serving 10.0.100.172:54362: runtime error: index out of range [37] with length 34
+goroutine 327 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1854 +0x148
+panic({0xbc42c0, 0xc000738468})
+	C:/Program Files/Go/src/runtime/panic.go:890 +0x262
+lufergo/model/netspace.megerFofa(0xc000a100e0, 0xc000742000)
+	E:/work/go/lufergo/model/netspace/netspace.go:251 +0x8af
+lufergo/model/netspace.Search({0xc00055a200, 0x4f, 0x200}, {0x0, 0x0, 0x0})
+	E:/work/go/lufergo/model/netspace/netspace.go:136 +0x8f4
+lufergo/service.search_to_http(0xc000768300)
+	E:/work/go/lufergo/service/httpsvr.go:23 +0x116
+github.com/gin-gonic/gin.(*Context).Next(0xc000768300)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 +0x7d
+lufergo/model/network.accessControlAllowOriginMiddleware.func1(0xc000768300)
+	E:/work/go/lufergo/model/network/httpapi.go:108 +0x22e
+github.com/gin-gonic/gin.(*Context).Next(0xc000768300)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/context.go:174 +0x7d
+github.com/gin-gonic/gin.(*Engine).handleHTTPRequest(0xc0004d6680, 0xc000768300)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:620 +0x434
+github.com/gin-gonic/gin.(*Engine).ServeHTTP(0xc0004d6680, {0xc88e00, 0xc00021c1c0}, 0xc000768000)
+	e:/work/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1/gin.go:576 +0xc5
+net/http.serverHandler.ServeHTTP({0xc0006a4000}, {0xc88e00, 0xc00021c1c0}, 0xc000768000)
+	C:/Program Files/Go/src/net/http/server.go:2936 +0x494
+net/http.(*conn).serve(0xc0009b2120, {0xc89388, 0xc0000f0460})
+	C:/Program Files/Go/src/net/http/server.go:1995 +0x19b5
+created by net/http.(*Server).Serve
+	C:/Program Files/Go/src/net/http/server.go:3089 +0xa16
+2024/01/25 15:30:18 [2024-01-25 15:30:18.505]Search,nmaps.io
+2024/01/25 15:30:18 [2024-01-25 15:30:18.825]调用接口用时,320,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 15:30:19 [2024-01-25 15:30:19.052]读取接口数据用时,227
+2024/01/25 15:30:22 [2024-01-25 15:30:22.791]调用接口用时,3737,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Cport%2Cprotocol%2Ccountry%2Ccountry_name%2Cregion%2Ccity%2Clongitude%2Clatitude%2Cas_number%2Cas_organization%2Chost%2Cdomain%2Cos%2Cserver%2Cicp%2Ctitle%2Cjarm%2Cheader%2Cbanner%2Ccert%2Cbase_protocol%2Clink%2Ccerts_issuer_org%2Ccerts_issuer_cn%2Ccerts_subject_org%2Ccerts_subject_cn%2Ctls_ja3s%2Ctls_version%2Cproduct%2Cproduct_category%2Cversion%2Clastupdatetime%2Ccname&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=bm1hcHMuaW8%3D&size=20
+2024/01/25 15:30:23 [2024-01-25 15:30:23.001]读取接口数据用时,209
+2024/01/25 15:30:23 [2024-01-25 15:30:23.011]Search,nmaps.io
+2024/01/25 15:30:24 [2024-01-25 15:30:24.234]调用接口用时,1222,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=20&search=bm1hcHMuaW8%3D&start_time=
+2024/01/25 15:30:24 [2024-01-25 15:30:24.452]读取接口数据用时,217
+2024/01/25 15:30:24 [2024-01-25 15:30:24.452]无返回数据,&{200 success {个人账号 0 1 [] 消耗积分：1 今日剩余积分：29107 }}
+2024/01/25 15:30:24 [2024-01-25 15:30:24.454]Search,nmaps.io
+2024/01/25 15:30:34 [2024-01-25 15:30:34.466]捕捉:Post "https://quake.360.net/api/v3/search/quake_service": context deadline exceeded (Client.Timeout exceeded while awaiting headers),行号419,代码E:/work/go/lufergo/model/netspace/netspace.go
+2024/01/25 15:31:37 [2024-01-25 15:31:37.003]创建Redis完成
+2024/01/25 15:31:37 [2024-01-25 15:31:37.067]DB2Cache 导入
+2024/01/25 15:31:37 [2024-01-25 15:31:37.075]fofasearch
+2024/01/25 15:31:45 [2024-01-25 15:31:45.700]huntersearch
+2024/01/25 15:31:51 [2024-01-25 15:31:51.233]nmapssearch
+2024/01/25 15:31:59 [2024-01-25 15:31:59.643]DB2Cache 结束
+2024/01/25 15:31:59 [2024-01-25 15:31:59.646]http server,10.0.100.172:8089
+2024/01/25 15:31:59 [2024-01-25 15:31:59.646]输入命令:
+gc:手动GC
+exit:退出服务
+按Enter键返回菜单
+a:保存Redis到Mysql
+
+2024/01/25 15:31:59 [2024-01-25 15:31:59.672]本机IP:172.19.192.1
+2024/01/25 15:32:07 [2024-01-25 15:32:07.539]Search,nmaps.io
+2024/01/25 15:32:08 [2024-01-25 15:32:08.951]调用接口用时,1411,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 15:32:08 [2024-01-25 15:32:08.974]读取接口数据用时,23
+2024/01/25 15:32:10 [2024-01-25 15:32:10.016]调用接口用时,1039,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Cport%2Cprotocol%2Ccountry%2Ccountry_name%2Cregion%2Ccity%2Clongitude%2Clatitude%2Cas_number%2Cas_organization%2Chost%2Cdomain%2Cos%2Cserver%2Cicp%2Ctitle%2Cjarm%2Cheader%2Cbanner%2Ccert%2Cbase_protocol%2Clink%2Ccerts_issuer_org%2Ccerts_issuer_cn%2Ccerts_subject_org%2Ccerts_subject_cn%2Ctls_ja3s%2Ctls_version%2Cproduct%2Cproduct_category%2Cversion%2Clastupdatetime%2Ccname&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=bm1hcHMuaW8%3D&size=20
+2024/01/25 15:32:10 [2024-01-25 15:32:10.050]读取接口数据用时,32
+2024/01/25 15:32:10 [2024-01-25 15:32:10.065]Search,nmaps.io
+2024/01/25 15:32:11 [2024-01-25 15:32:11.735]调用接口用时,1669,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=20&search=bm1hcHMuaW8%3D&start_time=
+2024/01/25 15:32:12 [2024-01-25 15:32:12.339]读取接口数据用时,603
+2024/01/25 15:32:12 [2024-01-25 15:32:12.340]无返回数据,&{200 success {个人账号 0 1 [] 消耗积分：1 今日剩余积分：29106 }}
+2024/01/25 15:32:12 [2024-01-25 15:32:12.340]Search,nmaps.io
+2024/01/25 15:32:18 [2024-01-25 15:32:18.300]调用接口用时,5959,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 15:32:18 [2024-01-25 15:32:18.841]读取接口数据用时,540
+2024/01/25 15:32:18 [2024-01-25 15:32:18.843]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 15:32:18 [2024-01-25 15:32:18.844]Search over
+2024/01/25 15:32:18 [2024-01-25 15:32:18.854]search_to_http request ip,10.0.100.172
+2024/01/25 15:32:18 [2024-01-25 15:32:18.854]search_to_http:A,11319
+2024/01/25 15:32:18 [2024-01-25 15:32:18.854]抓取域名查到的IP,156.235.99.78
+2024/01/25 15:32:18 [2024-01-25 15:32:18.859]Search,ip="156.235.99.78"
+2024/01/25 15:32:19 [2024-01-25 15:32:19.262]调用接口用时,403,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 15:32:19 [2024-01-25 15:32:19.465]读取接口数据用时,203
+2024/01/25 15:32:25 [2024-01-25 15:32:25.662]调用接口用时,6195,https://fofa.info/api/v1/search/all?email=om2bg0dzanzkdqicdslym3yaxev0%40open_wechat&fields=ip%2Cport%2Cprotocol%2Ccountry%2Ccountry_name%2Cregion%2Ccity%2Clongitude%2Clatitude%2Cas_number%2Cas_organization%2Chost%2Cdomain%2Cos%2Cserver%2Cicp%2Ctitle%2Cjarm%2Cheader%2Cbanner%2Ccert%2Cbase_protocol%2Clink%2Ccerts_issuer_org%2Ccerts_issuer_cn%2Ccerts_subject_org%2Ccerts_subject_cn%2Ctls_ja3s%2Ctls_version%2Cproduct%2Cproduct_category%2Cversion%2Clastupdatetime%2Ccname&full=true&key=c07b5a5029e3ad795b58d77fbc7edf03&page=1&qbase64=aXA9IjE1Ni4yMzUuOTkuNzgi&size=20
+2024/01/25 15:32:25 [2024-01-25 15:32:25.862]读取接口数据用时,197
+2024/01/25 15:32:25 [2024-01-25 15:32:25.897]Search,ip="156.235.99.78"
+2024/01/25 15:32:30 [2024-01-25 15:32:30.717]调用接口用时,4819,https://hunter.qianxin.com/openApi/search?api-key=ee2a5ccfd6db99e39fed662069b42e1ac2b89253c9f7b3d2bd03e7c0304bbe75&end_time=&is_web=&page=1&page_size=20&search=aXA9IjE1Ni4yMzUuOTkuNzgi&start_time=
+2024/01/25 15:32:30 [2024-01-25 15:32:30.937]读取接口数据用时,217
+2024/01/25 15:32:31 [2024-01-25 15:32:31.014]Search,ip:"156.235.99.78"
+2024/01/25 15:32:31 [2024-01-25 15:32:31.935]调用接口用时,920,https://quake.360.net/api/v3/search/quake_service
+2024/01/25 15:32:32 [2024-01-25 15:32:32.141]读取接口数据用时,205
+2024/01/25 15:32:32 [2024-01-25 15:32:32.142]调用错误,&{q5000 内部服务器发生错误 [] {{0 0 0 0}}}
+2024/01/25 15:32:32 [2024-01-25 15:32:32.143]抓取域名查到的IP,数据完成
+2024/01/25 15:32:32 [2024-01-25 15:32:32.143]抓取域名查到的IP,104.21.39.101
+2024/01/25 15:32:32 [2024-01-25 15:32:32.146]Search,ip="104.21.39.101"
+2024/01/25 15:32:32 [2024-01-25 15:32:32.725]调用接口用时,578,https://api.nmaps.io/api/v1/search_to_http
+2024/01/25 15:32:32 [2024-01-25 15:32:32.922]读取接口数据用时,196
